@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-##Descrition
+## Descrition
 
 Stack: Rest Api Request, Bloc, Dio, Shared Preferences
  Shop App is a flutter online store app made for us to use
