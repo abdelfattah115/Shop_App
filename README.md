@@ -16,6 +16,9 @@ Stack: Rest Api Request, Bloc, Dio, Shared Preferences
  ### Login
  https://user-images.githubusercontent.com/74645031/161440434-6c4cba48-709d-4fb6-ba2a-e2c1215253bc.mp4
  
+ ### HomeScreen, Categories Screen, Favorite Screen, Searching
+ https://user-images.githubusercontent.com/74645031/161443143-22aabc4c-803b-4973-b4dd-3f20eedfbe0a.mp4
+ 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
